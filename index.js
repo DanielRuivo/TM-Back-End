@@ -23,3 +23,4 @@ else if ([11, 12, 13].includes(num1)) {
 else if ([14, 15, 16].includes(num1)) {
     console.log("Você está na turma jovem adulto");
 }
+
